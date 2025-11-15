@@ -1,7 +1,7 @@
-<!-- Chibi avatar -->
 <p align="center">
-  <img src="assets/chibi.png" alt="Ryan's Chibi Avatar" width="150"/>
+  <img src="Chibi%20Avatar.png" alt="Ryan's Chibi Avatar" width="150"/>
 </p>
+
 
 <h1 align="center">Hi, I'm Ryan 👋</h1>
 <p align="center"><i>Full-stack developer • Creative engineer • Systems thinker</i></p>
