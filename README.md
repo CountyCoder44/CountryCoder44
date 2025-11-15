@@ -1,11 +1,53 @@
-<h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">A passionate fullstack developer from New Jersey</h3>
-
-- 🌱 I’m currently learning **AI assistant intigration**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Chibi avatar -->
+<p align="center">
+  <img src="assets/chibi.png" alt="Ryan's Chibi Avatar" width="150"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p># CountryCoder44
+<h1 align="center">Hi, I'm Ryan 👋</h1>
+<p align="center"><i>Full-stack developer • Creative engineer • Systems thinker</i></p>
+
+---
+
+## 🧠 Overview
+
+I'm a full-stack developer, creative engineer, and systems thinker with a background in logistics and a passion for building modular, scalable tools. I thrive at the intersection of software, automation, and design, blending technical rigor with user-centered polish.
+
+---
+
+## 🚀 Tech Stack & Tools
+
+### **Languages & Frameworks**
+- JavaScript, TypeScript, Java, Python, C++, C#
+- React, Node.js, TailwindCSS
+
+### **Databases**
+- MongoDB, PostgreSQL
+
+### **Tools & Platforms**
+- Git, VS Code, Creality Print
+- Blender (hard surface modeling, schematic visualization)
+- Unreal Engine 5 (experimental builds, asset integration)
+
+---
+
+## 🛠️ What I Build
+
+- Full-stack web apps with RESTful APIs, modular architecture, and responsive UI/UX
+- Automation tools for compliance, workflow optimization, and precision agriculture
+- Mechanical prototypes and visualizations using Blender and 3D printing workflows
+- Study systems and annotated guides for database logic, Python scripting, and more
+
+---
+
+## 🎯 Current Focus
+
+- Completing my B.S. in Computer Science at SNHU (honor roll every term)
+- Finalizing the Metana Full Stack Developer Bootcamp
+- Refining my portfolio with scalable, user-friendly projects
+- Advocating for neurodiversity and inclusive design in tech
+
+---
+
+## 💡 Philosophy
+
+I believe great engineering is modular, respectful, and deeply human. Whether I’m debugging a Python script or designing a mechanical assembly, I aim for clarity, precision, and impact. I value collaboration, cognitive diversity, and the kind of polish that makes tools feel intuitive and empowering.
